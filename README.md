@@ -28,7 +28,7 @@ of a website focused on WordPress performance.
 
 ## Project Timeline
 
-Start date: [Your start date]
+Start date: 16 November 2026
 Duration: 30 days
 
 ## Project Log
